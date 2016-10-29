@@ -7,7 +7,7 @@ var About = (props) => {
       <p>Here are some of the tools i used</p>
       <ul>
         <li>
-          <a href="https://facebook.github.io/react">React</a>- This was the javascript framework used
+          <a href="https://facebook.github.io/react">React</a>- This was the javascript Library used
         </li>
         <li>
           <a href="http://openweathermap.org">Open Weather maps</a>
